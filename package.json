@@ -2,9 +2,8 @@
   "name": "aoc_2025",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "type": "module",
   "scripts": {
-    "exec": "node src/main.js"
   },
   "repository": {
     "type": "git",

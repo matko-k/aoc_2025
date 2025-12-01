@@ -17,3 +17,6 @@ node_modules/
 
 # IDE
 .idea/
+
+# inputs dir
+inputs/
